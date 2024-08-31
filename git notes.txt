@@ -2,3 +2,10 @@ git config --local user.email "bhanutejanamana@gmail.com"
 git config --local user.name "bhanutejan"
 git config --local user.email
 git config --local user.name
+git remote add origin https://github.com/bhanutejan/example.git
+git remote -v
+git add .
+git commit -m "git tutorial commands"
+git status
+git push origin master
+
